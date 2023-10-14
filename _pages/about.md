@@ -18,4 +18,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I'm Juhyun Lee.
+
+I'm Juhyun Lee. I graduated from Chung-Ang University with a Bachelor of Arts degree in French Literature and a double major in Statistics. I worked as a research assistant in the ET lab led by Professor Il-Youp Kwak. I have also collaborated with Professor Junyeong Kim, conducting research on mitigating bias in AI systems. My research experiences motivated me to develop deep learning models to make a positive impact. I'm interested in multi-modal learning, efficient and robust Machine Learning, and applications towards healthcare.
+
+Beyond academia, I find joy in hearing people's stories, reading, playing tennis, and immersing myself in music. Sports and music are a huge part of my life.
