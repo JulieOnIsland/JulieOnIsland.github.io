@@ -116,3 +116,7 @@
             </div>
             {% include scripts/wechatModal.html %}
             {% endif %}
+
+            {%- if site.naver_blog_id -%}
+            <a href="https://blog.naver.com/{{ site.naver_blog_id }}" title="Naver Blog"><i class="fa-solid fa-n"></i></a>
+            {% endif %}
