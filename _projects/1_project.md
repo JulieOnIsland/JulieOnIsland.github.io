@@ -7,6 +7,8 @@ importance: 1
 category: work
 ---
 
+**Our paper has been published in BMC Bioinformatics!** <a href="https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-024-05645-5">[paper]</a>
+
 We developed a transformer-based model aimed at predicting gene expression utilizing promoter sequence data. Our efforts resulted in securing the third position during the RSGDream Conference in Las Vegas, 2022. <a href="https://github.com/gongx030/dream_PGE">[code]</a>
 
 Participating in this conference marked my first experience in such academic gatherings, and I found it thoroughly captivating. Engaging in discussions about our research during coffee breaks, listening to keynote speeches, and comparing our approach with that of fellow researchers were invigorating moments that solidified my passion for academia.

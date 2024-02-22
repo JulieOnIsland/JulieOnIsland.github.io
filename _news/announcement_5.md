@@ -5,7 +5,7 @@ inline: true
 related_posts: false
 ---
 
-Il-Youp Kwak, Byeong-Chan Kim, Juhyun Lee, Taein Kang , Daniel J. Garry, Jianyi Zhang, and Wuming Gong (2024) Proformer: a hybrid macaron transformer model predicts expression values from promoter sequences, BMC Bioinformatics, Accepted. <a href="https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-024-05645-5">[paper]</a>
+Il-Youp Kwak, Byeong-Chan Kim, Juhyun Lee, Taein Kang , Daniel J. Garry, Jianyi Zhang, and Wuming Gong (2024) Proformer: a hybrid macaron transformer model predicts expression values from promoter sequences, BMC Bioinformatics, Published. <a href="https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-024-05645-5">[paper]</a>
 
 <!-- 
 ---
